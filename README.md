@@ -1,5 +1,7 @@
 ## Payment Service
 
+![paymentmodule](https://github.com/user-attachments/assets/eaba97e9-41bd-4432-9d7c-9b9c253023b9)
+
 The Payment Service is responsible for handling all payment related operations, including:
 
 - **Initiating payments:** Users can initiate payments for projects and resources.
